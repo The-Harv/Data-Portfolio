@@ -1,2 +1,2 @@
 # Data-Portfolio
-My GitHub data science and analysis portfolio 
+My GitHub repository/portfolio for data science and analysis  
